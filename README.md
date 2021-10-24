@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
- I'm Hieu, Fullstack developer from bravesoft Vietnam
+ I'm Hieu, Fullstack developer from Moneyfoward Vietnam
 </p>
 <h3>Things I will do:</h3>
 
