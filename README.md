@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 </p>
 
 My blogs:
-https://code-escape-blog.vercel.app/
+https://code-escape-blog.com/
