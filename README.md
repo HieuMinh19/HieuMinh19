@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 </p>
 
 My blogs:
-https://code-escape-blog.com/
+[https://code-escape-blog.com/](https://www.code-escape-blog.com/)https://www.code-escape-blog.com/
